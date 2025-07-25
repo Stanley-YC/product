@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../poject2"
+		},
+		{
+			"path": "../../six coner"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sixproduct"
+	}
+}
